@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Anh iu iem",
-    introTitle: 'Thùy Linh bel cụa',
+    introTitle: 'Bé Linh bel cụa a',
     introDesc: `Anh không được vẻ ngoài
     Hay là lãng mạn
     Nhưng mà tình yêu dành cho em
